@@ -1,0 +1,66 @@
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\datnt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe.config
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.pdb
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.Properties.Resources.resources
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.exe
+C:\Users\datnt\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.pdb
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe.config
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.pdb
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.Properties.Resources.resources
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\backup\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.pdb
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe.config
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.pdb
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.Properties.Resources.resources
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\backup\backup1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.pdb
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe.config
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.pdb
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.Properties.Resources.resources
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.exe
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.pdb
+C:\Users\datnt\Desktop\Test\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe.config
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.pdb
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.Properties.Resources.resources
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.pdb
