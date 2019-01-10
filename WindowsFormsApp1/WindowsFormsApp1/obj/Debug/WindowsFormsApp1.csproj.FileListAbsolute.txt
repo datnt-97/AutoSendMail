@@ -64,3 +64,14 @@ C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\Wi
 C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.exe
 C:\Users\Thanh Dat\Documents\backup\App\App\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.pdb
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe.config
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AutoSendBirhDayMail.pdb
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.Properties.Resources.resources
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.exe
+C:\Users\Thanh Dat\Documents\GitHub\AutoSendMail\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AutoSendBirhDayMail.pdb

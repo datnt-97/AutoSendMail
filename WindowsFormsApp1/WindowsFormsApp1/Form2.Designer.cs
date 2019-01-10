@@ -58,6 +58,8 @@
             this.label8 = new System.Windows.Forms.Label();
             this.tbSmtpMail = new System.Windows.Forms.TextBox();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
+            this.label7 = new System.Windows.Forms.Label();
+            this.cmSsl = new System.Windows.Forms.ComboBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -183,6 +185,8 @@
             // 
             // tabPage2
             // 
+            this.tabPage2.Controls.Add(this.label7);
+            this.tabPage2.Controls.Add(this.cmSsl);
             this.tabPage2.Controls.Add(this.label12);
             this.tabPage2.Controls.Add(this.label11);
             this.tabPage2.Controls.Add(this.tbMailBcc);
@@ -269,7 +273,7 @@
             // 
             this.tbMailForm.Location = new System.Drawing.Point(77, 54);
             this.tbMailForm.Name = "tbMailForm";
-            this.tbMailForm.Size = new System.Drawing.Size(184, 20);
+            this.tbMailForm.Size = new System.Drawing.Size(141, 20);
             this.tbMailForm.TabIndex = 47;
             // 
             // label10
@@ -346,6 +350,27 @@
             this.tbSmtpMail.TabIndex = 33;
             this.tbSmtpMail.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(233, 57);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(27, 13);
+            this.label7.TabIndex = 58;
+            this.label7.Text = "SSL";
+            // 
+            // cmSsl
+            // 
+            this.cmSsl.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmSsl.FormattingEnabled = true;
+            this.cmSsl.Items.AddRange(new object[] {
+            "Yes",
+            "No"});
+            this.cmSsl.Location = new System.Drawing.Point(265, 53);
+            this.cmSsl.Name = "cmSsl";
+            this.cmSsl.Size = new System.Drawing.Size(68, 21);
+            this.cmSsl.TabIndex = 57;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -399,5 +424,7 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox tbMailBcc;
         private System.Windows.Forms.TextBox tbMailCc;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ComboBox cmSsl;
     }
 }

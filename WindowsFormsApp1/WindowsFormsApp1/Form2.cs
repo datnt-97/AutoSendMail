@@ -1,5 +1,8 @@
 ﻿using AutoSendBirhDayMail.DBConnection;
+using AutoSendBirhDayMail.Model;
+using AutoSendMailService.Model;
 using System;
+using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
@@ -42,6 +45,10 @@ namespace WindowsFormsApp1
             tbMailTo.Text = "";
             tbPassMail.Text = "";
 
+            tabPage1.Text = @"Login";
+            tabPage2.Text = @"Setting Email";
+
+            cmSsl.SelectedIndex = 0;
             tabPage1.Text = @"Login";
             tabPage2.Text = @"Setting Email";
 
@@ -165,7 +172,8 @@ namespace WindowsFormsApp1
                      folderPath,
                      (int)cmPort.Value,
                      tbMailCc.Text,
-                     tbMailBcc.Text);
+                     tbMailBcc.Text,
+                     cmSsl.SelectedItem.ToString());
                 new AutoSendMailService.MailService.SendMail()
                     .sendMail("", "Test connect authentication : " + DateTime.Now, "Mail Test Send Birth Day Mail", mailConifg);
             }
@@ -176,33 +184,38 @@ namespace WindowsFormsApp1
                 this.Show();
                 form1.Hide();
             }
-           
+
+            Timer timer = new Timer();
+            AutoSendMailService.MailService.MailConfig mailConifg1 =
+                    new AutoSendMailService.MailService.MailConfig(
+                        tbMailForm.Text,
+                        tbMailTo.Text,
+                        tbPassMail.Text,
+                        tbSmtpMail.Text,
+                        folderPath,
+                        (int)cmPort.Value,
+                        tbMailCc.Text,
+                        tbMailBcc.Text,
+                        cmSsl.SelectedItem.ToString());
+            AutoSendMailService.WorkWithDatabase database = new AutoSendMailService.WorkWithDatabase(mailConifg1);
+            List<Template> templates = database.QueryBirth(tbServerName.Text, tbDBName.Text, tbUserName.Text, tbPass.Text);
+
             //set up 8:00, every 24 hour
-             MyScheduler.IntervalInHours(8, 0, 24,
-            () =>
-             {
-                 try
-                 {
-                     AutoSendMailService.MailService.MailConfig mailConifg1 =
-                      new AutoSendMailService.MailService.MailConfig(
-                          tbMailForm.Text,
-                          tbMailTo.Text,
-                          tbPassMail.Text,
-                          tbSmtpMail.Text,
-                          folderPath,
-                          (int)cmPort.Value,
-                          tbMailCc.Text,
-                          tbMailBcc.Text);
-                     AutoSendMailService.WorkWithDatabase database = new AutoSendMailService.WorkWithDatabase(mailConifg1);
-                     database.CallDatabase(tbServerName.Text, tbDBName.Text, tbUserName.Text, tbPass.Text);
-                 }
-                 catch (Exception ec)
-                 {
-                     showMess(ec.Message);
-                     this.Show();
-                     form1.Hide();
-                 }
-             });
+            MyScheduler.IntervalInHours(8, 0, 24,
+           () =>
+            {
+                try
+                {
+                    List<Employee> employees = database.QueryEmployee(tbServerName.Text, tbDBName.Text, tbUserName.Text, tbPass.Text);
+                    database.setUpSendMail(employees, templates);
+                }
+                catch (Exception ec)
+                {
+                    showMess(ec.Message);
+                    this.Show();
+                    form1.Hide();
+                }
+            });
 
         }
 
@@ -244,6 +257,11 @@ namespace WindowsFormsApp1
 
                 Environment.SpecialFolder root = folderDlg.RootFolder;
             }
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 

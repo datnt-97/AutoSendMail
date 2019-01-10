@@ -14,10 +14,12 @@ namespace AutoSendMailService.MailService
         private static string smtpClient = "smtp.gmail.com";
         private static string pathRootImage = "";
         private static int port = 587;
+        private static bool ssl = true;
+
 
         public MailConfig(string _mailFrom, string _mailTo,
             string _pw, string _smtpClient, string _pathRootImage, int _port,
-            string _mailCc, string _mailBcc)
+            string _mailCc, string _mailBcc,string _ssl)
         {
             mailFrom = _mailFrom;
             mailTo = _mailTo;
@@ -27,13 +29,14 @@ namespace AutoSendMailService.MailService
             port = _port;
             mailCc = _mailCc;
             mailBcc = _mailBcc;
+            ssl = "Yes".Equals(_ssl) ? true : false;
         }
 
         public SmtpClient buildSmtpClient()
         {
             System.Net.NetworkCredential cred = new System.Net.NetworkCredential(mailFrom, pw);
             SmtpClient smtp = new SmtpClient(smtpClient, port);
-            smtp.EnableSsl = true;
+            smtp.EnableSsl = ssl;
             smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtp.UseDefaultCredentials = false;
             smtp.Credentials = cred;

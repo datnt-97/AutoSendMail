@@ -26,11 +26,9 @@ namespace AutoSendMailService.MailService
                 }
             }
         }
-        public async void SendMailAsync(string pathName, string body, string subject, MailConfig mailConifg)
+        public async void SendMailAsync(SmtpClient smtp, MailMessage message)
         {
-            SmtpClient smtp = mailConifg.buildSmtpClient();
-            MailMessage message = mailConifg.buildMailMessageWithImage(pathName, body, subject);
-            smtp.SendMailAsync(message);
+            await smtp.SendMailAsync(message);
         }
 
     }
